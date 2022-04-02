@@ -27,7 +27,7 @@ django-extensions==3.1.5
 - Rode as migrações.
 
 ```
-git clone https://github.com/rg3915/django-experience.git
+git clone https://github.com/Cristiane541/frexco
 cd django-experience
 python -m venv .venv
 source .venv/bin/activate
