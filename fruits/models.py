@@ -1,5 +1,3 @@
-from msilib.schema import Class
-from unicodedata import name
 from django.db import models
 
 class Region(models.Model):
