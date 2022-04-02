@@ -25,3 +25,14 @@ django-extensions==3.1.5
 - Ative o virtualenv; <br>
 - Instale as dependências; <br>
 - Rode as migrações.
+
+```
+git clone https://github.com/rg3915/django-experience.git
+cd django-experience
+python -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+python contrib/env_gen.py
+python manage.py migrate
+python manage.py createsuperuser --username="admin" --email=""
+```
