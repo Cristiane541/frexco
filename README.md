@@ -22,6 +22,7 @@ django-extensions==3.1.5
 
 - Clone esse repositório; <br>
 - Crie um virtualenv com Python 3; <br>
+- Crie um .env e dentro do arquivo escreva SECRET_KEY=ABC
 - Ative o virtualenv; <br>
 - Instale as dependências; <br>
 - Rode as migrações.
