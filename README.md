@@ -18,3 +18,4 @@ djangorestframework==3.13.1
 python-decouple==3.6
 django-extensions==3.1.5
 ```
+<h2 align="center">Como executar o projeto</h2> 
