@@ -31,7 +31,8 @@ django-extensions==3.1.5
 git clone https://github.com/Cristiane541/frexco
 cd frexco
 python -m venv .venv
-source .venv/bin/activate
+source .venv/bin/activate  # Linux
+.venv\Scripts\activate  # Windows
 pip install -r requirements.txt
 python manage.py migrate
 python manage.py createsuperuser --username="admin" --email=""
