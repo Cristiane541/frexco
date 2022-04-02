@@ -21,7 +21,7 @@ django-extensions==3.1.5
 <h2 align="left">Como executar o projeto:</h2> 
 
 - Clone esse repositório; <br>
-- Crie um virtualenv com Python 3; <br>
+- Crie um virtualenv com Python 3.6; <br>
 - Crie um arquivo .env na pasta principal e dentro dele escreva SECRET_KEY=password-not-secure
 - Ative o virtualenv; <br>
 - Instale as dependências; <br>
