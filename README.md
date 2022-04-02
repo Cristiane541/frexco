@@ -13,8 +13,8 @@
 <p align="left"> Versões utilizadas por essa aplicação: <br>
  
 ```
-Django==4.0.3<br>
-djangorestframework==3.13.1<br>
-python-decouple==3.6<br>
-django-extensions==3.1.5</p>
+Django==4.0.3
+djangorestframework==3.13.1
+python-decouple==3.6
+django-extensions==3.1.5
 ```
